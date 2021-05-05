@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "name": "edb_build",
+  "description": "edb_build",
+  "version": "1.0.0",
+  "main": "precache-manifest.956d7b64a4178be8418e4ebb85e80b97.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server . -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthrews/edb_build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthrews/edb_build/issues"
+  },
+  "homepage": "https://github.com/Matthrews/edb_build#readme"
+}
